@@ -1,0 +1,67 @@
+**** Triangle Listing (Release): EdIt-FC ../data/CA-GrQc *** 
+	n = 4158; m = 13422
+#Triangles by EI-FULL-C: 286674
+Tri_Time: 3090, Total_Time: 3448
+**** Triangle Listing (Release): EdIt-FE ../data/CA-GrQc *** 
+	n = 4158; m = 13422
+#Triangles by EI-FULL-E: 286674
+Hash_Time: 1550, Total_Time: 9032
+**** Triangle Listing (Release): EdIt-FV ../data/CA-GrQc *** 
+	n = 4158; m = 13422
+#Triangles by EI-FULL-V: 286674
+Tri_Time: 1444, Total_Time: 1763
+Sort_Time: 319, CL_Time: 644, Orient_Time: 206, Tri_Time: 594
+**** Triangle Listing (Release): EdIt-FVo2 ../data/CA-GrQc *** 
+	n = 4158; m = 13422
+#Triangles by EI-FULL-V: 286674
+Tri_Time: 1518, Total_Time: 1837
+Sort_Time: 319, CL_Time: 527, Tri_Time: 991
+**** Triangle Listing (Release): EdIt-FC ../data/CA-CondMat *** 
+	n = 21363; m = 91286
+#Triangles by EI-FULL-C: 1026306
+Tri_Time: 32845, Total_Time: 35385
+**** Triangle Listing (Release): EdIt-FE ../data/CA-CondMat *** 
+	n = 21363; m = 91286
+#Triangles by EI-FULL-E: 1026306
+Hash_Time: 7690, Total_Time: 76335
+**** Triangle Listing (Release): EdIt-FV ../data/CA-CondMat *** 
+	n = 21363; m = 91286
+#Triangles by EI-FULL-V: 1026306
+Tri_Time: 14442, Total_Time: 16644
+Sort_Time: 2202, CL_Time: 4527, Orient_Time: 1397, Tri_Time: 8518
+**** Triangle Listing (Release): EdIt-FVo2 ../data/CA-CondMat *** 
+	n = 21363; m = 91286
+#Triangles by EI-FULL-V: 1026306
+Tri_Time: 13937, Total_Time: 16143
+Sort_Time: 2206, CL_Time: 5286, Tri_Time: 8651
+**** Triangle Listing (Release): EdIt-FC ../data/Email-EuAll *** 
+	n = 224832; m = 339925
+#Triangles by EI-FULL-C: 1603878
+Tri_Time: 196078, Total_Time: 210381
+**** Triangle Listing (Release): EdIt-FE ../data/Email-EuAll *** 
+	n = 224832; m = 339925
+#Triangles by EI-FULL-E: 1603878
+Hash_Time: 59928, Total_Time: 433946
+**** Triangle Listing (Release): EdIt-FV ../data/Email-EuAll *** 
+	n = 224832; m = 339925
+#Triangles by EI-FULL-V: 1603878
+Tri_Time: 50308, Total_Time: 64482
+Sort_Time: 14174, CL_Time: 28467, Orient_Time: 3090, Tri_Time: 18751
+**** Triangle Listing (Release): EdIt-FVo2 ../data/Email-EuAll *** 
+	n = 224832; m = 339925
+#Triangles by EI-FULL-V: 1603878
+Tri_Time: 66039, Total_Time: 79409
+Sort_Time: 13370, CL_Time: 28908, Tri_Time: 37131
+**** Triangle Listing (Release): EdIt-FC ../data/Epinions *** 
+	n = 75877; m = 405739
+#Triangles by EI-FULL-C: 9746886
+Tri_Time: 771570, Total_Time: 787680
+**** Triangle Listing (Release): EdIt-FE ../data/Epinions *** 
+	n = 75877; m = 405739
+#Triangles by EI-FULL-E: 9746886
+Hash_Time: 27483, Total_Time: 1429639
+**** Triangle Listing (Release): EdIt-FV ../data/Epinions *** 
+	n = 75877; m = 405739
+#Triangles by EI-FULL-V: 9746886
+Tri_Time: 97472, Total_Time: 117960
+Sort_Time: 20488, CL_Time: 30633, Orient_Time: 4985, Tri_Time: 61854

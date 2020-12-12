@@ -1,0 +1,50 @@
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 56752
+Total time excluding IO is: 78810025
+Method: AB, Time=510528702, Search Space=9090
+Method: DB, Time=2972311529, Search Space=56752
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 86261
+Total time excluding IO is: 117065482
+Method: AB, Time=710890673, Search Space=16087
+Method: DB, Time=3633788432, Search Space=86261
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 146899
+Total time excluding IO is: 128315004
+Method: AB, Time=758153336, Search Space=30769
+Method: DB, Time=4094574240, Search Space=146899
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 280295
+Total time excluding IO is: 141371372
+Method: AB, Time=834707430, Search Space=64992
+Method: DB, Time=4330805381, Search Space=280295
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 1259634
+Total time excluding IO is: 150423380
+Method: AB, Time=966662983, Search Space=208009
+Method: DB, Time=4437781809, Search Space=1259634
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 34892
+Total time excluding IO is: 70124564
+Method: AB, Time=483479529, Search Space=5245
+Method: DB, Time=2208521657, Search Space=34892
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 146899
+Total time excluding IO is: 123968056
+Method: AB, Time=730333103, Search Space=30769
+Method: DB, Time=3866045067, Search Space=146899
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 159380
+Total time excluding IO is: 122228797
+Method: AB, Time=731534124, Search Space=34154
+Method: DB, Time=3951098616, Search Space=159380
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 147508
+Total time excluding IO is: 121069170
+Method: AB, Time=720334728, Search Space=31639
+Method: DB, Time=3829445579, Search Space=147508
+**** TriList_TopkSD (Release): ../data/uk-2002 *** 
+Vertices explored: 151950
+Total time excluding IO is: 107338129
+Method: AB, Time=661089778, Search Space=33567
+Method: DB, Time=3151422335, Search Space=151950
